@@ -1,4 +1,4 @@
 # BitFinexAPI
-this code for pılling historical data from bitfinex API v1.1
+this code for pulling historical data via bitfinex API v1.1
 
-riefly ypte your api-key and public key into the code and run main.m function
+Briefly, type your api-key and public key into the code and run main.m function
