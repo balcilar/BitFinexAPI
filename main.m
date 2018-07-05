@@ -98,7 +98,7 @@ for c=1:C
         if length(VALUE)>0
             table=struct2table(VALUE);
             pause(2);
-            writetable(table,  [ 'input\' filename]);            
+            writetable(table, filename);            
         end
         
     end
